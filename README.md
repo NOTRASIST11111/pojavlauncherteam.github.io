@@ -1,3 +1,3 @@
 # PojavLauncher
 
-https://pojav.ml is our new home.
+https://pojav.ml is our new home.lado
